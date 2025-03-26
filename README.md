@@ -29,7 +29,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/username/ai-wardrobe-suggestions.git  
+git clone https://github.com/Arulrockerz/AI-Wardrobe
 cd ai-wardrobe-suggestions  
 Install required dependencies:
 
@@ -87,13 +87,11 @@ Copy
 Edit
 ai-wardrobe-suggestions/  
 ├── backend/  
-│   ├── main.py               # FastAPI backend  
+│   ├── package.py               # FastAPI backend  
 │   ├── ollama_client.py      # Ollama API client  
 │   ├── requirements.txt      # Dependencies  
 ├── frontend/  
 │   ├── index.html            # Web interface  
-│   ├── style.css             # Styling for the UI  
-│   ├── script.js             # Client-side logic  
 ├── README.md                 # Project documentation  
 📜 License
 This project is licensed under the MIT License.
