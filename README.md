@@ -91,7 +91,9 @@ ai-wardrobe-suggestions/
 │   ├── ollama_client.py      # Ollama API client  
 │   ├── requirements.txt      # Dependencies  
 ├── frontend/  
-│   ├── index.html            # Web interface  
+│   ├── index.html
+    ├── welcome.html
+    ├── login.html
 ├── README.md                 # Project documentation  
 📜 License
 This project is licensed under the MIT License.
